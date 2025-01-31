@@ -12,4 +12,4 @@ A fully functional calculator built using **HTML**, **CSS**, and **JavaScript**.
 2. Open `calc.html` in your browser.
 
 ## Live Demo
-[View the live demo here](https://sarathnivas001.github.io/CALCULATOR)
+[View the live demo here](file:///D:/calc.html)
